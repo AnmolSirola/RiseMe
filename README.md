@@ -1,6 +1,6 @@
 
 ## Dependencies
-Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
+Install these dependencies.
 - NPM: https://nodejs.org
 - Hardhat: https://hardhat.org/
 - EthersJs: https://ethers.org/
